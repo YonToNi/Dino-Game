@@ -4,4 +4,4 @@
 | 1. | [Spinosaurus](github.com) |
 |---|---|
 | 2. | [Tyrannosaurus](github.com) |
-|---|---|
+| 3. | Pteranodon |
