@@ -1,5 +1,5 @@
 
-| [< Back](https://github.com/YonToNi/Dino-Game/blob/main/README.md) | Entity |
+| [< Back](https://github.com/YonToNi/Dino-Game/blob/main/README.md) | Name | Type |
 |---|---|
-| 2. | [Tyrannosaurus](github.com) |
-| 3. | Pteranodon |
+| 1. | [Tyrannosaurus](github.com) | Carnivor |
+| 2. | Pteranodon | Carnivor |
