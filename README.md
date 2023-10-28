@@ -1,2 +1,3 @@
 | Section | Status |
+| Entity | - [] |
 |---|---|
